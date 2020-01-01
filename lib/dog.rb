@@ -20,6 +20,9 @@ def self.print_all
     puts dog.name
   end
 end
+
+def save
+  @@all << 
 end
 
   
